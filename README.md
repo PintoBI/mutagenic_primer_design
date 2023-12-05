@@ -18,7 +18,7 @@ This tool is designed to generate primers for quick-change missense mutations. B
 
 ### Codon Table File (CSV Format)
 - **Example Filename**:  `codontableXlaevis.csv`.
-- **Content**: Include a mapping of amino acids to their respective codons. The first column lists the amino acids (single-letter code), followed by columns listing the codons.
+- **Content**: Include a mapping of amino acids to their respective codons. The first column lists the amino acids (single-letter code), followed by columns listing the high frequency codons.
 
 ## Running the Notebook
 Execute the cells in the notebook in order, ensuring that each cell completes successfully before proceeding to the next.
