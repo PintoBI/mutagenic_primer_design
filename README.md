@@ -13,7 +13,7 @@ This tool is designed to generate primers for quick-change missense mutations. B
  
 ### Mutations File (CSV Format)
 - **Example Filename**: `mutations.csv`.
-- **Content**: List mutations as comma-separated values. Each line should be in the format `[position],[amino acid]`, where `[position]` is the residue number and `[amino acid]` is the desired amino acid using the single-letter code.
+- **Content**: List mutations as comma-separated values. Each line should be in the format `[position],[amino acid]`, where `[position]` is the residue number and `[amino acid]` is the desired amino acid using the single-letter code. Other options migth include "*" for ochre stop codon, "-" for amber and "X" for random mutation.
 
 
 ### Codon Table File (CSV Format)
