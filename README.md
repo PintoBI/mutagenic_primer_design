@@ -2,7 +2,7 @@
 # Mutagenic Primer Design
 
 ## Introduction
-This tool is designed to generate primers for quick-change missense mutations. Below are the instructions for preparing the necessary input files.
+This tool is designed to generate primers for quick-change missense mutations easily on google Colab. Below are the instructions for preparing the necessary input files.
 
 ## Preparing Input Files
 
